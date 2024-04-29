@@ -1,0 +1,1 @@
+import{E as r}from"./error-7b1e6c35.js";import{c as s,m as t,f as e}from"./index-7a9d41ff.js";const i={__name:"403",setup(c){const o=new URL("/smv3-pre/assets/icon-403-d87e9f82.svg",self.location).href;return(n,a)=>(s(),t(e(r),{code:"403",img:e(o),content:"抱歉，您无权访问该页面"},null,8,["img"]))}};export{i as default};

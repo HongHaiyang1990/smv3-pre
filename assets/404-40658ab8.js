@@ -1,1 +1,0 @@
-import{E as r}from"./error-491b5b58.js";import{c as s,m as c,f as e}from"./index-18b660c1.js";const i={__name:"404",setup(t){const o=new URL("/smv3-pre/assets/icon-404-c7407edd.svg",self.location).href;return(n,a)=>(s(),c(e(r),{code:"404",img:e(o),content:"抱歉，您访问的页面不存在"},null,8,["img"]))}};export{i as default};
